@@ -217,6 +217,3 @@ If this project helped you or you'd like to support future development, consider
 ---
 
 *Built with 💚 using Flutter*
-```
-
-I've added a "Buy Me a Coffee" section with two popular platforms (Buy Me a Coffee and Ko-fi) at the top of the README for maximum visibility, and also included it in the "Support Options" section. This gives users multiple ways to support your work. The badges are styled with shields.io and include the official logos for better recognition.
