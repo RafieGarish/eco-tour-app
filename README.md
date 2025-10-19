@@ -1,5 +1,5 @@
 
-# 🌿 Eco Tour Pacitan - Flutter App
+# 🌿 Eco Tour Pacitan - Flutter App UI
 
 A beautiful and feature-rich Flutter application for exploring eco-tourism destinations in Pacitan, Indonesia. This app showcases local tourism spots and supports UMKM (Small and Medium Enterprises) by providing a marketplace for local products.
 
