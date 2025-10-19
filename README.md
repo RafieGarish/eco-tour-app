@@ -16,9 +16,9 @@ If you find this project helpful and would like to support my work, consider buy
 
 ## 📱 App Preview
 
-| Home Screen | Destinations | Marketplace | Profile |
-|-------------|--------------|-------------|---------|
-| ![Home](https://ik.imagekit.io/iz7xcurfw/github/eco-tour-app/tr:w-200/Screenshot_2025-10-17-18-27-24-505_com.example.eco_tour_pacitan.jpg?updatedAt=1760804393943) | ![Destinations](https://via.placeholder.com/150x300/4CAF50/FFFFFF?text=Destinations) | ![Marketplace](https://via.placeholder.com/150x300/2196F3/FFFFFF?text=Marketplace) | ![Profile](https://via.placeholder.com/150x300/FF9800/FFFFFF?text=Profile) |
+| Home Screen | Destinations | Destination Details | Marketplace | Profile |
+|-------------|--------------|---------------------|-------------|---------|
+| ![Home](https://ik.imagekit.io/iz7xcurfw/github/eco-tour-app/tr:w-200/Screenshot_2025-10-17-18-27-24-505_com.example.eco_tour_pacitan.jpg?updatedAt=1760804393943) | ![Destinations](https://ik.imagekit.io/iz7xcurfw/github/eco-tour-app/tr:w-200/Screenshot_2025-10-17-18-27-37-771_com.example.eco_tour_pacitan.jpg?updatedAt=1760804392405) | ![Destination Details](https://ik.imagekit.io/iz7xcurfw/github/eco-tour-app/tr:w-200/Screenshot_2025-10-17-18-27-57-107_com.example.eco_tour_pacitan.jpg?updatedAt=1760804392214) | ![Marketplace](https://ik.imagekit.io/iz7xcurfw/github/eco-tour-app/tr:w-200/Screenshot_2025-10-17-18-28-45-713_com.example.eco_tour_pacitan.jpg?updatedAt=1760804394312) | ![Marketplace Details](https://ik.imagekit.io/iz7xcurfw/github/eco-tour-app/tr:w-200/Screenshot_2025-10-17-18-28-53-402_com.example.eco_tour_pacitan.jpg?updatedAt=1760804393174) | ![Profile](https://ik.imagekit.io/iz7xcurfw/github/eco-tour-app/Screenshot_2025-10-17-18-29-23-686_com.example.eco_tour_pacitan.jpg?updatedAt=1760804392389) |
 
 ## ✨ Features
 
