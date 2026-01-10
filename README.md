@@ -220,4 +220,4 @@ If this project helped you or you'd like to support future development, consider
 
 ---
 
-*Built with 💚 using Flutter*
+*Built with 💚 by RafieGarish using Flutter*
